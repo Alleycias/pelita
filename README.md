@@ -14,6 +14,5 @@
         <a href="www.whatsapp.com/081310003343">Whatsapp1</a>
         ,
         <a href="www.whatsapp.com/0817814488">Whatsapp2</a>
-    </p>
-   
+    </p> 
 </body>
