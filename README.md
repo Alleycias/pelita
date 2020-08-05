@@ -9,9 +9,9 @@
     <h4>Tentang Saya</h4>
     <p>
         Hubungi saya melalui
-        <a href="081310003343">Whatsapp1</a>
+        <a href="https://whatsapp.com/081310003343">Whatsapp1</a>
         ,
-        <a href="0817814488">Whatsapp2</a>
+        <a href="http://whatsapp.com/0817814488">Whatsapp2</a>
         ,
         <a href="https://instagram.com/alley.cia_">Instagram</a>
     </p>
