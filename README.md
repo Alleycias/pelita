@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <nav>
         <center> <h1>PELITA DRY ICE</h1></center>
